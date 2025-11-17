@@ -1,0 +1,12 @@
+python-dateutil
+numpy
+pandas
+peft
+jsonlines     
+glob2
+sentence-transformers
+torch
+transformers
+datasets
+tqdm
+accelerate
