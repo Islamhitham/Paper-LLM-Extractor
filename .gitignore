@@ -3,3 +3,6 @@ models/
 *.safetensors
 structured_input_output.jsonl
 structured_input_output_fixed_1.jsonl
+llama_train.jsonl
+llama_valid.jsonl
+llama_test.jsonl
